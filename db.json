@@ -2,7 +2,12 @@
   "students": [
     {
       "id": 1,
-      "name": "Student"
+      "firstName": "Student",
+      "laststName": "Number 1",
+      "grade": 6,
+      "ict": false,
+      "advisory": "Apple",
+      "cohort": "2024-6-Apple"
     }
   ]
 }
